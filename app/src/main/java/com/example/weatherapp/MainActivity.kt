@@ -46,7 +46,7 @@ fun MenuPrincipal(): Unit {
 
 }
 
-@Preview(showBackground = true, widthDp = 380, heightDp = 25)
+@Preview(showBackground = true, widthDp = 380)
 @Composable
 fun NavegacaoPesquisaComponente(): Unit {
     Row() {
